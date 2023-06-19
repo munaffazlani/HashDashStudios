@@ -113,7 +113,7 @@ body {
 .btn-primary,
 .btn-primary:active {
   background-color: #101511 !important;
-  border-color: #101511 !important;
+  border-color: #f8e80c !important;
   color: #ffffff !important;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2);
 }
